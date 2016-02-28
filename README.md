@@ -38,7 +38,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-Well actually, I knew not very much about Java. And the SQLite is my toughest challenge here although I have already learned SQL language but still It tooks about 8 hours for me to get it done. 
+Well actually, I knew not very much about Java. And the SQLite is my toughest challenge here although I have already learned SQL language but still It tooks me about 8 hours to get it done. 
 Describe any challenges encountered while building the app.
 
 ## License
